@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b7273c0-ee3d-4846-8504-650a43a19f40" name="Default" comment="">
+    <list default="true" id="3b7273c0-ee3d-4846-8504-650a43a19f40" name="Default" comment="减少控制">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -534,7 +533,7 @@
       <workItem from="1496838553671" duration="4000" />
       <workItem from="1496838585401" duration="6000" />
       <workItem from="1497352205371" duration="11000" />
-      <workItem from="1497352633759" duration="1101000" />
+      <workItem from="1497352633759" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary="first change">
       <created>1497352736545</created>
@@ -578,11 +577,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497353079463</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="减少控制">
+      <created>1497353751641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1497353751641</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1417000" />
+    <option name="totallyTimeSpent" value="1457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
