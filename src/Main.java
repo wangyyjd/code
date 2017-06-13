@@ -3,5 +3,9 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Hello World! wo yao ti jiao dai ma ");
+
+        System.out.println("Hello World! twice");
     }
+
+
 }
