@@ -7,4 +7,7 @@ public class TestAd {
         System.out.println("test add method in branch");
     }
 
+    public void testAdd2() {
+        System.out.println("test add method in branch");
+    }
 }
